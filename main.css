@@ -1,0 +1,20 @@
+body{
+    text-align:center;
+
+}
+h1{
+    font-size: 20vh;
+    text-decoration: underline;
+    text-decoration-color: blue;
+    font: bolder;
+    font-style: italic;
+    border:solid;
+    border-radius: 50px;
+    background-color: silver;
+}
+
+h1:hover{
+    color: pink;
+    text-decoration-color: green;
+    background-color: teal;
+}
